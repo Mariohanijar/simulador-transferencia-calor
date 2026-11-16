@@ -1,6 +1,6 @@
 # ThermoLab — Simulador de transferência de calor
 Projeto acadêmico de Fenômenos de Transporte — Engenharia da Computação, CESUPA.
-Autor: Mario Henrique Santos Anijar.
+Autores: Enzo Kikuchi, Leandro Sarkis, Luiz Eduardo Neto, Mario Anijar.
 
 ## Executar
 Baixe e extraia o projeto. Abra `index.html` no Chrome, Edge ou Firefox. Mantenha os três arquivos na mesma pasta. Funciona sem instalação, internet ou banco de dados. O código usa HTML, CSS, JavaScript e SVG, sem bibliotecas externas.
